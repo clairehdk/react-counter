@@ -89,7 +89,7 @@ footer span {
 }
 
 div .hidden {
-  display: none;
+  visibility: hidden;
 }
 div .display {
   display: initial;
